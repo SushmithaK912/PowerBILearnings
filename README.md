@@ -1,1 +1,2 @@
-# PowerBI
+# PowerBI with AI
+Bolt.new is an AI-powered web development platform that enables users to create, run, edit, and deploy full-stack applications directly in their browser without any local setup. It integrates advanced AI models with StackBlitz's WebContainers technology, allowing for seamless development and deployment workflows..
